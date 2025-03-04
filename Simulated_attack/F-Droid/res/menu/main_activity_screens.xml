@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_latest" android:enabled="true" android:id="@id/latest" android:orderInCategory="0" android:title="@string/main_menu__latest_apps" app:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/ic_categories" android:enabled="true" android:id="@id/categories" android:orderInCategory="1" android:title="@string/main_menu__categories" app:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/ic_nearby" android:enabled="true" android:id="@id/nearby" android:orderInCategory="2" android:title="@string/main_menu__swap_nearby" app:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/ic_updates" android:enabled="true" android:id="@id/updates" android:orderInCategory="3" android:title="@string/main_menu__updates" app:showAsAction="ifRoom|withText" />
+    <item android:icon="@drawable/ic_settings" android:enabled="true" android:id="@id/settings" android:orderInCategory="4" android:title="@string/menu_settings" app:showAsAction="ifRoom|withText" />
+</menu>

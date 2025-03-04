@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Ikusi guztiak: %d</item>
+        <item quantity="one">Ikusi %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Orain dela %1$d egun eguneratua</item>
+        <item quantity="one">Orain dela egun %1$d eguneratua</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Orain dela %1$d hilabete eguneratua</item>
+        <item quantity="one">Orain dela hilabete %1$d eguneratua</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Orain dela %1$d aste eguneratua</item>
+        <item quantity="one">Orain dela aste %1$d eguneratua</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Orain dela %1$d urte eguneratua</item>
+        <item quantity="one">Orain dela urte %1$d eguneratua</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Deskargatu aplikazioak IPFS web amaierako puntuak erabiliz: %1$d gaituta</item>
+        <item quantity="one">Deskargatu aplikazioak IPFS web amaierako puntuak erabiliz: %1$d gaituta</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jakinarazpen berri</item>
+        <item quantity="one">%d jakinarazpen berri</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d aplikazio instalatuta</item>
+        <item quantity="one">Aplikazio %1$d instalatuta</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d gehiago…</item>
+        <item quantity="one">+%1$d gehiago…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d eguneraketa</item>
+        <item quantity="one">Eguneraketa %1$d</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Ikusi %2$s kategoriako %1$d aplikazioak</item>
+        <item quantity="one">Ikusi %2$s kategoriako aplikazio %1$d</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Deskargatu %1$d eguneraketa.</item>
+        <item quantity="one">Deskargatu eguneraketa %1$d.</item>
+    </plurals>
+</resources>

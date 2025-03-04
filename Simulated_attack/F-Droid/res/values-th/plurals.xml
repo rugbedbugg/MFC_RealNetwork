@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">ดูทั้งหมด %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">อัปเดตเมื่อ %1$d วันที่ผ่านมา</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">อัปเดตเมื่อ %1$d เดือนที่แล้ว</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">อัปเดตเมื่อ %1$d สัปดาห์ที่ผ่านมา</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">อัปเดตเมื่อ %1$d ปีที่แล้ว</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">ติดตั้งแอป %1$d แล้ว</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">อีก +%1$d…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">อัปเดต %1$d</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">ดูแอป %1$d ทั้งหมดจากหมวดหมู่ %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">ดาวน์โหลดการอัปเดตสำหรับแอป %1$d</item>
+    </plurals>
+</resources>

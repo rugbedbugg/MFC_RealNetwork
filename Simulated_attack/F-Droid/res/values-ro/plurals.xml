@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Toate cele %d</item>
+        <item quantity="one">Vezi %d</item>
+        <item quantity="few">Toate cele %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Actualizate acum %1$d de zile</item>
+        <item quantity="one">Actualizate azi</item>
+        <item quantity="few">Actualizate acum %1$d zile</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Actualizat acum %1$d de luni</item>
+        <item quantity="one">Actualizat acum o lună</item>
+        <item quantity="few">Actualizat acum %1$d luni</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Actualizat acum %1$d săptămâni</item>
+        <item quantity="one">Actualizat acum o săptămână</item>
+        <item quantity="few">Actualizat acum %1$d săptămâni</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Actualizat acum %1$d de ani</item>
+        <item quantity="one">Actualizat acum un an</item>
+        <item quantity="few">Actualizat acum %1$d ani</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Descărcați aplicații de la locațiile IPFS web: %1$d active</item>
+        <item quantity="one">Descărcați aplicații de la locațiile IPFS web: %1$d activă</item>
+        <item quantity="few">Descărcați aplicații de la locațiile IPFS web: %1$d active</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d de aplicații instalate</item>
+        <item quantity="one">%1$d aplicație instalată</item>
+        <item quantity="few">%1$d aplicații instalate</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+ încă %1$d…</item>
+        <item quantity="one">+încă %1$d…</item>
+        <item quantity="few">+ încă %1$d…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d de actualizări</item>
+        <item quantity="one">%1$d actualizare</item>
+        <item quantity="few">%1$d actualizări</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Vezi toate cele %1$d de aplicații din categoria %2$s</item>
+        <item quantity="one">Vezi singura aplicație din categoria %2$s</item>
+        <item quantity="few">Vezi toate cele %1$d aplicații din categoria %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Descarcă actualizările pentru %1$d de aplicații:</item>
+        <item quantity="one">Descarcă actualizarea pentru %1$d aplicație:</item>
+        <item quantity="few">Descarcă actualizările pentru %1$d aplicații:</item>
+    </plurals>
+</resources>

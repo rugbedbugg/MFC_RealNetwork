@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">%d taneyi göster</item>
+        <item quantity="one">%d taneyi göster</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">%1$d gün önce güncellendi</item>
+        <item quantity="one">%1$d gün önce güncellendi</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">%1$d ay önce güncellendi</item>
+        <item quantity="one">%1$d ay önce güncellendi</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">%1$d hafta önce güncellendi</item>
+        <item quantity="one">%1$d hafta önce güncellendi</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">%1$d yıl önce güncellendi</item>
+        <item quantity="one">%1$d yıl önce güncellendi</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">IPFS web uç noktalarını kullanarak uygulamaları indirin: %1$d etkin</item>
+        <item quantity="one">IPFS web uç noktalarını kullanarak uygulamaları indirin: %1$d etkin</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d Uygulama Yüklendi</item>
+        <item quantity="one">%1$d Uygulama Yüklendi</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d daha…</item>
+        <item quantity="one">+%1$d daha…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d Güncelleme</item>
+        <item quantity="one">%1$d Güncelleme</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">%2$s kategorisindeki %1$d uygulamayı göster</item>
+        <item quantity="one">%2$s kategorisindeki %1$d uygulamayı göster</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">%1$d uygulama için güncellemeleri indir:</item>
+        <item quantity="one">%1$d uygulama için güncellemeyi indir:</item>
+    </plurals>
+</resources>

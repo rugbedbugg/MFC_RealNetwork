@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="?selectableItemBackground" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/icon" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="8.0dip" android:scaleType="fitCenter" android:layout_marginStart="16.0dip" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <TextView android:textSize="18.0sp" android:textColor="?appListItem" android:ellipsize="end" android:id="@id/app_name" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:lines="2" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" app:layout_constraintEnd_toStartOf="@id/buttons" app:layout_constraintStart_toEndOf="@id/icon" app:layout_constraintTop_toTopOf="@id/icon" />
+    <TextView android:id="@id/status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginTop="8.0dip" android:layout_marginStart="8.0dip" app:layout_constraintStart_toEndOf="@id/icon" app:layout_constraintTop_toBottomOf="@id/app_name" style="@style/AppListItemStatusText" />
+    <FrameLayout android:id="@id/buttons" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:layout_marginEnd="16.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="@id/icon">
+        <ImageView android:id="@id/install" android:padding="4.0dip" android:layout_width="64.0dip" android:layout_height="64.0dip" android:scaleType="fitXY" android:contentDescription="@string/menu_install" android:elevation="2.0dip" />
+        <Button android:id="@id/action_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" style="@style/DetailsPrimaryButtonStyle" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

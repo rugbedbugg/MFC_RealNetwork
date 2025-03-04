@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">睇晒全部 %d 個</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">%1$d 日之前出咗更新</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">%1$d 個月之前出咗更新</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">%1$d 星期之前出咗更新</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">%1$d 年之前出咗更新</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">用 IPFS 網點嚟下載啲 app：用緊 %1$d 個</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">安裝咗 %1$d 個 App</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+仲有 %1$d 個…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d 個更新</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">睇晒%2$s分類入面嘅全部 %1$d 個 app</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">下載 %1$d 個 app 嘅更新。</item>
+    </plurals>
+</resources>

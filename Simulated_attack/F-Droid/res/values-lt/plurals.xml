@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Rodyti visas %d</item>
+        <item quantity="one">Rodyti %d</item>
+        <item quantity="few">Rodyti visas %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Atnaujinta prieš %1$d dienų</item>
+        <item quantity="one">Atnaujinta prieš %1$d dieną</item>
+        <item quantity="few">Atnaujinta prieš %1$d dienas</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Atnaujinta prieš %1$d mėnesių</item>
+        <item quantity="one">Atnaujinta prieš %1$d mėnesį</item>
+        <item quantity="few">Atnaujinta prieš %1$d mėnesius</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Atnaujinta prieš %1$d savaičių</item>
+        <item quantity="one">Atnaujinta prieš %1$d savaitę</item>
+        <item quantity="few">Atnaujinta prieš %1$d savaites</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Atnaujinta prieš %1$d metų</item>
+        <item quantity="one">Atnaujinta prieš %1$d metus</item>
+        <item quantity="few">Atnaujinta prieš %1$d metus</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d naujų pranešimų</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">Įdiegta %1$d programėlių</item>
+        <item quantity="one">Įdiegta %1$d programėlė</item>
+        <item quantity="few">Įdiegtos %1$d programėlės</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+ dar %1$d…</item>
+        <item quantity="one">+ dar %1$d…</item>
+        <item quantity="few">+ dar %1$d…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d atnaujinimų</item>
+        <item quantity="one">%1$d atnaujinimas</item>
+        <item quantity="few">%1$d atnaujinimai</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Peržiūrėti %1$d programėlių kategorijoje %2$s</item>
+        <item quantity="one">Peržiūrėti %1$d programėlę kategorijoje %2$s</item>
+        <item quantity="few">Peržiūrėti %1$d programėles kategorijoje %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Atsiųsti %1$d programėlių atnaujinimus.</item>
+        <item quantity="one">Atsiųsti %1$d programėlės atnaujinimą.</item>
+        <item quantity="few">Atsiųsti %1$d programėlių atnaujinimus.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">הצגת כל ה־%d</item>
+        <item quantity="one">הצגת אחד</item>
+        <item quantity="two">הצגת כל ה־%d</item>
+        <item quantity="many">הצגת כל ה־%d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">עודכן לפני %1$d ימים</item>
+        <item quantity="one">עודכן אתמול</item>
+        <item quantity="two">עודכן שלשום</item>
+        <item quantity="many">עודכן לפני %1$d ימים</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">עודכן לפני %1$d חודשים</item>
+        <item quantity="one">עודכן לפני חודש</item>
+        <item quantity="two">עודכן לפני חודשיים</item>
+        <item quantity="many">עודכן לפני %1$d חודשים</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">עודכן לפני %1$d שבועות</item>
+        <item quantity="one">עודכן לפני שבוע</item>
+        <item quantity="two">עודכן לפני שבועיים</item>
+        <item quantity="many">עודכן לפני %1$d שבועות</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">עודכן לפני %1$d שנים</item>
+        <item quantity="one">עודכן לפני שנה</item>
+        <item quantity="two">עודכן לפני שנתיים</item>
+        <item quantity="many">עודכן לפני %1$d שנים</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">הורדת יישומונים באמצעות נקודות גישת IPFS‏: %1$d מופעלות</item>
+        <item quantity="one">הורדת יישומונים באמצעות נקודת גישת IPFS‏: אחת מופעלת</item>
+        <item quantity="two">הורדת יישומונים באמצעות נקודות גישת IPFS‏: שתיים מופעלות</item>
+        <item quantity="many">הורדת יישומונים באמצעות נקודות גישת IPFS‏: %1$d מופעלות</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">%d התראות חדשות</item>
+        <item quantity="two">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d יישומונים הותקנו</item>
+        <item quantity="one">יישומון %1$d הותקן</item>
+        <item quantity="two">%1$d יישומונים הותקנו</item>
+        <item quantity="many">%1$d יישומונים הותקנו</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">עוד %1$d…</item>
+        <item quantity="one">עוד %1$d…</item>
+        <item quantity="two">עוד %1$d…</item>
+        <item quantity="many">עוד %1$d…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d עדכונים</item>
+        <item quantity="one">עדכון %1$d</item>
+        <item quantity="two">%1$d עדכונים</item>
+        <item quantity="many">%1$d עדכונים</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">הצגת כל %1$d היישומונים מהקטגוריה %2$s</item>
+        <item quantity="one">הצגת יישומון מהקטגוריה %2$s</item>
+        <item quantity="two">הצגת כל %1$d היישומונים מהקטגוריה %2$s</item>
+        <item quantity="many">הצגת כל %1$d היישומונים מהקטגוריה %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">הורדת עדכונים עבור %1$d יישומונים:</item>
+        <item quantity="one">הורדת עדכון עבור יישומון אחד:</item>
+        <item quantity="two">הורדת עדכונים עבור %1$d יישומונים:</item>
+        <item quantity="many">הורדת עדכונים עבור %1$d יישומונים:</item>
+    </plurals>
+</resources>

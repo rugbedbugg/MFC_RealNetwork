@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="2.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@android:id/icon" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginLeft="?listPreferredItemPaddingLeft" android:layout_marginTop="6.0dip" android:layout_marginStart="?listPreferredItemPaddingStart" android:layout_alignParentStart="true" />
+    <CheckBox android:id="@id/checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="?listPreferredItemPaddingLeft" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_marginStart="?listPreferredItemPaddingStart" android:layout_alignParentEnd="true" />
+    <TwoLineListItem android:layout_width="wrap_content" android:layout_height="wrap_content" android:mode="twoLine" android:layout_toStartOf="@id/checkbox" android:layout_toEndOf="@android:id/icon">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/application_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="?listPreferredItemPaddingLeft" android:layout_marginTop="6.0dip" android:layout_marginStart="?listPreferredItemPaddingStart" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:id="@id/package_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/application_label" android:layout_alignStart="@id/application_label" />
+    </TwoLineListItem>
+</RelativeLayout>

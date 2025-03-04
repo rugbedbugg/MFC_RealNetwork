@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">എല്ലാ %d യും കാണുക</item>
+        <item quantity="one">%d കാണുക</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">%1$d ദിവസങ്ങള്‍ മുന്നെ പുതുക്കിയത്</item>
+        <item quantity="one">%1$d ദിവസം മുന്നെ പുതുക്കിയത്</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">%1$d മാസങ്ങള്‍ മുന്നെ പുതുക്കിയത്</item>
+        <item quantity="one">%1$d മാസം മുന്നെ പുതുക്കിയത്</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">%1$d ആഴ്ചകള്‍ മുന്നെ പുതുക്കിയത്</item>
+        <item quantity="one">%1$d ആഴ്ച മുന്നെ പുതുക്കിയത്</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">%1$d കൊല്ലങ്ങള്‍ മുന്നെ പുതുക്കിയത്</item>
+        <item quantity="one">%1$d കൊല്ലം മുന്നെ പുതുക്കിയത്</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d പുതിയ അറിയിപ്പുകൾ</item>
+        <item quantity="one">%d പുതിയ അറിയിപ്പ്</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d പ്രയോഗങ്ങള്‍ സ്ഥാപിച്ചു</item>
+        <item quantity="one">%1$d പ്രയോഗം സ്ഥാപിച്ചു</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$dയും കൂടെ…</item>
+        <item quantity="one">+%1$d കൂടെ…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d പുതുക്കലുകള്‍</item>
+        <item quantity="one">%1$d പുതുക്കല്‍</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">%2$s ഇനത്തിലെ എല്ലാ %1$d പ്രയോഗങ്ങളും കാണുക</item>
+        <item quantity="one">%2$s ഇനത്തിലെ %1$d പ്രയോഗം കാണുക</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">%1$d പ്രയോഗങ്ങള്‍ക്കുള്ള പുതുക്കലുകള്‍ ഡൌണ്‍ലോഡ് ചെയ്യുക.</item>
+        <item quantity="one">%1$d പ്രയോഗത്തിനുള്ള പുതുക്കലുകള്‍ ഡൌണ്‍ലോഡ് ചെയ്യുക.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Alle %d ansehen</item>
+        <item quantity="one">%d ansehen</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Vor %1$d Tagen aktualisiert</item>
+        <item quantity="one">Vor %1$d Tag aktualisiert</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Vor %1$d Monaten aktualisiert</item>
+        <item quantity="one">Vor %1$d Monat aktualisiert</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Vor %1$d Wochen aktualisiert</item>
+        <item quantity="one">Vor %1$d Woche aktualisiert</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Vor %1$d Jahren aktualisiert</item>
+        <item quantity="one">Vor %1$d Jahr aktualisiert</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Download von Apps über IPFS-Webendpunkte: %1$d aktiviert</item>
+        <item quantity="one">Download von Apps über IPFS-Webendpunkt: %1$d aktiviert</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d Apps installiert</item>
+        <item quantity="one">%1$d App installiert</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d weitere …</item>
+        <item quantity="one">+%1$d weiteres …</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d Aktualisierungen</item>
+        <item quantity="one">%1$d Aktualisierung</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Alle %1$d Apps aus der Kategorie %2$s ansehen</item>
+        <item quantity="one">%1$d App in der Kategorie %2$s ansehen</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Aktualisierungen für %1$d Apps herunterladen:</item>
+        <item quantity="one">Aktualisierung für %1$d App herunterladen:</item>
+    </plurals>
+</resources>

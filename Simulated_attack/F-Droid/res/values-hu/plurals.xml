@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">%d megtekintése</item>
+        <item quantity="one">%d megtekintése</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">%1$d napja frissítve</item>
+        <item quantity="one">Tegnap frissítve</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">%1$d hónapja frissítve</item>
+        <item quantity="one">%1$d hónapja frissítve</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">%1$d hete frissítve</item>
+        <item quantity="one">%1$d hete frissítve</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">%1$d éve frissítve</item>
+        <item quantity="one">%1$d éve frissítve</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Alkalmazások letöltése IPFS webes végpontok használatával: %1$d engedélyezve</item>
+        <item quantity="one">Alkalmazások letöltése IPFS webes végpontok használatával: %1$d engedélyezve</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d alkalmazás telepítve</item>
+        <item quantity="one">%1$d alkalmazás telepítve</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d további…</item>
+        <item quantity="one">+%1$d további…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d frissítés</item>
+        <item quantity="one">%1$d frissítés</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Mind a(z) %1$d alkalmazás megtekintése a(z) %2$s kategóriából</item>
+        <item quantity="one">%1$d alkalmazás megtekintése a(z) %2$s kategóriában</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Frissítés letöltése %1$d alkalmazáshoz.</item>
+        <item quantity="one">Frissítés letöltése %1$d alkalmazáshoz.</item>
+    </plurals>
+</resources>

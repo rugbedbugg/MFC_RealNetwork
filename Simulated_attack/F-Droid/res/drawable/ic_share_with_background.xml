@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="32.0dip" android:width="32.0dip" android:drawable="@drawable/background_circle" />
+    <item android:drawable="@drawable/ic_share" android:left="2.0dip" android:top="4.0dip" android:right="6.0dip" android:bottom="4.0dip" />
+</layer-list>

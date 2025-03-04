@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Féach ar gach %d</item>
+        <item quantity="one">Amharc %d</item>
+        <item quantity="two">Féach ar gach %d</item>
+        <item quantity="few">Féach ar gach %d</item>
+        <item quantity="many">Féach ar gach %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Nuashonraithe %1$d laethanta ó shin</item>
+        <item quantity="one">Nuashonraithe %1$d lá ó shin</item>
+        <item quantity="two">Nuashonraithe %1$d laethanta ó shin</item>
+        <item quantity="few">Nuashonraithe %1$d laethanta ó shin</item>
+        <item quantity="many">Nuashonraithe %1$d laethanta ó shin</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Nuashonraithe %1$d míonna ó shin</item>
+        <item quantity="one">Nuashonraithe %1$d mí ó shin</item>
+        <item quantity="two">Nuashonraithe %1$d míonna ó shin</item>
+        <item quantity="few">Nuashonraithe %1$d míonna ó shin</item>
+        <item quantity="many">Nuashonraithe %1$d míonna ó shin</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Nuashonraithe %1$d seachtain ó shin</item>
+        <item quantity="one">Nuashonraithe %1$d seachtan ó shin</item>
+        <item quantity="two">Nuashonraithe %1$d seachtain ó shin</item>
+        <item quantity="few">Nuashonraithe %1$d seachtain ó shin</item>
+        <item quantity="many">Nuashonraithe %1$d seachtain ó shin</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Nuashonraithe %1$d bliainta ó shin</item>
+        <item quantity="one">Nuashonraithe %1$d bliain ó shin</item>
+        <item quantity="two">Nuashonraithe %1$d bliainta ó shin</item>
+        <item quantity="few">Nuashonraithe %1$d bliainta ó shin</item>
+        <item quantity="many">Nuashonraithe %1$d bliainta ó shin</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Íoslódáil aipeanna le críochphointí gréasáin IPFS: %1$d cumasaithe</item>
+        <item quantity="one">Íoslódáil an aip le críochphointí gréasáin IPFS: %1$d cumasaithe</item>
+        <item quantity="two">Íoslódáil aipeanna le críochphointí gréasáin IPFS: %1$d cumasaithe</item>
+        <item quantity="few">Íoslódáil aipeanna le críochphointí gréasáin IPFS: %1$d cumasaithe</item>
+        <item quantity="many">Íoslódáil aipeanna le críochphointí gréasáin IPFS: %1$d cumasaithe</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">Suiteáilte %1$d Aipeanna</item>
+        <item quantity="one">Suiteáilte %1$d Aip</item>
+        <item quantity="two">Suiteáilte %1$d Aipeanna</item>
+        <item quantity="few">Suiteáilte %1$d Aipeanna</item>
+        <item quantity="many">Suiteáilte %1$d Aipeanna</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d eile…</item>
+        <item quantity="one">+%1$d eile…</item>
+        <item quantity="two">+%1$d eile…</item>
+        <item quantity="few">+%1$d eile…</item>
+        <item quantity="many">+%1$d eile…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d Nuashonruithe</item>
+        <item quantity="one">%1$d Nuashonrú</item>
+        <item quantity="two">%1$d Nuashonruithe</item>
+        <item quantity="few">%1$d Nuashonruithe</item>
+        <item quantity="many">%1$d Nuashonruithe</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Féach ar gach %1$d aipeanna sa chatagóir %2$s</item>
+        <item quantity="one">Féach ar %1$d aip sa chatagóir %2$s</item>
+        <item quantity="two">Féach ar gach %1$d aipeanna sa chatagóir %2$s</item>
+        <item quantity="few">Féach ar gach %1$d aipeanna sa chatagóir %2$s</item>
+        <item quantity="many">Féach ar gach %1$d aipeanna sa chatagóir %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Íoslódáil nuashonruithe le haghaidh %1$d aip:</item>
+        <item quantity="one">Íoslódáil nuashonrú don aip %1$d:</item>
+        <item quantity="two">Íoslódáil nuashonruithe le haghaidh %1$d aip:</item>
+        <item quantity="few">Íoslódáil nuashonruithe le haghaidh %1$d aip:</item>
+        <item quantity="many">Íoslódáil nuashonruithe le haghaidh %1$d aip:</item>
+    </plurals>
+</resources>

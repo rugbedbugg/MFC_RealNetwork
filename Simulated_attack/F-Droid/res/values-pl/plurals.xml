@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">%d aplikacji</item>
+        <item quantity="one">%d aplikacja</item>
+        <item quantity="few">%d aplikacje</item>
+        <item quantity="many">%d aplikacji</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Zaktualizowano %1$d dni temu</item>
+        <item quantity="one">Zaktualizowano %1$d dzień temu</item>
+        <item quantity="few">Zaktualizowano %1$d dni temu</item>
+        <item quantity="many">Zaktualizowano %1$d dni temu</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Zaktualizowano %1$d miesięcy temu</item>
+        <item quantity="one">Zaktualizowano %1$d miesiąc temu</item>
+        <item quantity="few">Zaktualizowano %1$d miesiące temu</item>
+        <item quantity="many">Zaktualizowano %1$d miesięcy temu</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Zaktualizowano %1$d tygodni temu</item>
+        <item quantity="one">Zaktualizowano %1$d tydzień temu</item>
+        <item quantity="few">Zaktualizowano %1$d tygodnie temu</item>
+        <item quantity="many">Zaktualizowano %1$d tygodni temu</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Zaktualizowano %1$d lat temu</item>
+        <item quantity="one">Zaktualizowano %1$d rok temu</item>
+        <item quantity="few">Zaktualizowano %1$d lata temu</item>
+        <item quantity="many">Zaktualizowano %1$d lat temu</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Pobieraj aplikacje z endpointów IPFS: %1$d włączonych</item>
+        <item quantity="one">Pobieraj aplikacje z endpointu IPFS: %1$d włączony</item>
+        <item quantity="few">Pobieraj aplikacje z endpointów IPFS: %1$d włączone</item>
+        <item quantity="many">Pobieraj aplikacje z endpointów IPFS: %1$d włączonych</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowego powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="one">%1$d zainstalowana aplikacja</item>
+        <item quantity="few">%1$d zainstalowane aplikacje</item>
+        <item quantity="many">%1$d zainstalowanych aplikacji</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d powiadomień więcej…</item>
+        <item quantity="one">+%1$d powiadomienie więcej…</item>
+        <item quantity="few">+%1$d powiadomienia więcej…</item>
+        <item quantity="many">+%1$d powiadomień więcej…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="one">%1$d aktualizacja</item>
+        <item quantity="few">%1$d aktualizacje</item>
+        <item quantity="many">%1$d aktualizacji</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Wyświetl wszystkie %1$d aplikacji z kategorii %2$s</item>
+        <item quantity="one">Wyświetl %1$d aplikację z kategorii %2$s</item>
+        <item quantity="few">Wyświetl wszystkie %1$d aplikacje z kategorii %2$s</item>
+        <item quantity="many">Wyświetl wszystkie %1$d aplikacji z kategorii %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Pobierz aktualizacje dla %1$d aplikacji:</item>
+        <item quantity="one">Pobierz aktualizację dla %1$d aplikacji:</item>
+        <item quantity="few">Pobierz aktualizacje dla %1$d aplikacji:</item>
+        <item quantity="many">Pobierz aktualizacje dla %1$d aplikacji:</item>
+    </plurals>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Càstia totu %d</item>
+        <item quantity="one">Càstia %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Agiornada %1$d dies a oe</item>
+        <item quantity="one">Agiornada %1$d die a oe</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Agiornada %1$d meses a oe</item>
+        <item quantity="one">Agiornada %1$d mese a oe</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Agiornada %1$d chidas a oe</item>
+        <item quantity="one">Agiornada %1$d chida a oe</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Agiornada %1$d annos a oe</item>
+        <item quantity="one">Agiornada %1$d annu a oe</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Iscàrriga aplicatziones dae sos puntos finales IPFS: %1$d abilitados</item>
+        <item quantity="one">Iscàrriga aplicatziones dae sos puntos finales IPFS: %1$d abilitadu</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d aplicatziones installadas</item>
+        <item quantity="one">%1$d aplicatzione installada</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">àteras +%1$d…</item>
+        <item quantity="one">+%1$d àtera…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d Agiornamentos</item>
+        <item quantity="one">%1$d Agiornamentu</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Ammustra totu sas aplicatziones %1$d in sa categoria %2$s</item>
+        <item quantity="one">"Ammustra s'aplicatzione %1$d in sa categoria %2$s"</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Iscàrriga sos agiornamentos pro %1$d aplicatziones:</item>
+        <item quantity="one">"Iscàrriga s'agiornamentu pro %1$d aplicatzione:"</item>
+    </plurals>
+</resources>

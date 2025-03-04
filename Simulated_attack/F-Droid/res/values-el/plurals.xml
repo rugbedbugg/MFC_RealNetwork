@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Προβολή όλων %d</item>
+        <item quantity="one">Προβολή %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Αναβαθμίστηκε %1$d μέρες πριν</item>
+        <item quantity="one">Αναβαθμίστηκε %1$d μέρα πριν</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Αναβαθμίστηκε %1$d μήνες πριν</item>
+        <item quantity="one">Αναβαθμίστηκε %1$d μήνα πριν</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Αναβαθμίστηκε %1$d εβδομάδες πριν</item>
+        <item quantity="one">Αναβαθμίστηκε %1$d εβδομάδα πριν</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Αναβαθμίστηκε %1$d χρόνια πριν</item>
+        <item quantity="one">Αναβαθμίστηκε %1$d χρόνο πριν</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Λήψη εφαρμογών με χρήση τελικών σημείων ιστού IPFS: %1$d ενεργοποιημένα</item>
+        <item quantity="one">Λήψη εφαρμογών με χρήση τελικών σημείων ιστού IPFS: %1$d ενεργοποιημένο</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d Εφαρμογές εγκαταστάθηκαν</item>
+        <item quantity="one">%1$d Εφαρμογή εγκαταστάθηκε</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d επιπλέον…</item>
+        <item quantity="one">+%1$d περισσότερα…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d αναβαθμίσεις</item>
+        <item quantity="one">%1$d αναβάθμιση</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Προβολή όλων των %1$d εφαρμογών από τη κατηγορία %2$s</item>
+        <item quantity="one">Προβολή %1$d εφαρμογής από τη κατηγορία %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Λήψη εγκατάστασης %1$d εφαρμογών:</item>
+        <item quantity="one">Λήψη εγκατάστασης %1$d εφαρμογήs:</item>
+    </plurals>
+</resources>

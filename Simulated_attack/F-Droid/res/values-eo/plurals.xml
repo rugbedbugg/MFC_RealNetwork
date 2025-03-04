@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">%d aplikaĵoj</item>
+        <item quantity="one">%d aplikaĵo</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Ĝisdatigita antaŭ %1$d tagoj</item>
+        <item quantity="one">Ĝisdatigita antaŭ %1$d tago</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Ĝisdatigita antaŭ %1$d monatoj</item>
+        <item quantity="one">Ĝisdatigita antaŭ %1$d monato</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Ĝisdatigita antaŭ %1$d semajnoj</item>
+        <item quantity="one">Ĝisdatigita antaŭ %1$d semajno</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Ĝisdatigita antaŭ %1$d jaroj</item>
+        <item quantity="one">Ĝisdatigita antaŭ %1$d jaro</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Elŝuti aplikaĵojn el retejaj IPFS-kluzoj: %1$d aktivaj</item>
+        <item quantity="one">Elŝuti aplikaĵojn el retejaj IPFS-kluzoj: %1$d aktiva</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d instalitaj aplikaĵoj</item>
+        <item quantity="one">%1$d instalita aplikaĵo</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d pli…</item>
+        <item quantity="one">+%1$d pli…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d ĝisdatigoj</item>
+        <item quantity="one">%1$d ĝisdatigo</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Montri ĉiujn %1$d aplikaĵojn en la kategorio %2$s</item>
+        <item quantity="one">Montri %1$d aplikaĵon en la kategorio %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Elŝuti ĝisdatigojn por %1$d aplikaĵoj:</item>
+        <item quantity="one">Elŝuti ĝisdatigon por %1$d aplikaĵo:</item>
+    </plurals>
+</resources>

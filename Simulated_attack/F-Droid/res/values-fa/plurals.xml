@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">نمایش‌ تمامی %d</item>
+        <item quantity="one">نمایش %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">%1$d روز پیش به‌روز شده‌</item>
+        <item quantity="one">%1$d روز پیش به‌روز شده</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">%1$d ماه پیش به‌روز شده</item>
+        <item quantity="one">%1$d ماه پیش به‌روز شده</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">%1$d هفته پیش به‌روز شده</item>
+        <item quantity="one">%1$d هفته پیش به‌روز شده</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">%1$d سال پیش به‌روز شده</item>
+        <item quantity="one">%1$d سال پیش به‌روز شده</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">بارگیری کاره‌ها از نقطه‌های پایانی وب IPFS: %1$d به کار افتاده</item>
+        <item quantity="one">بارگیری کاره‌ها از نقطه‌های پایانی وب IPFS: %1$d به کار افتاده</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d اعلان جدید</item>
+        <item quantity="one">%d اعلان جدید</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d کاره نصب شدند</item>
+        <item quantity="one">%1$d کاره نصب شد</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d مورد دیگر…</item>
+        <item quantity="one">+%1$d مورد دیگر…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d به‌روز رسانی</item>
+        <item quantity="one">%1$d به‌روز رسانی</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">نمایش تمامی %1$d کاره از دستهٔ %2$s</item>
+        <item quantity="one">نمایش %1$d کاره در دستهٔ %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">بارگیری به‌روز رسانی‌ها برای %1$d کاره:</item>
+        <item quantity="one">بارگیری به‌روز رسانی برای %1$d کاره:</item>
+    </plurals>
+</resources>

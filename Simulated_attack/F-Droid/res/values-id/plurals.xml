@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Lihat semua %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Diperbarui %1$d hari yang lalu</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Diperbarui %1$d bulan yang lalu</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Diperbarui %1$d minggu yang lalu</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Diperbarui %1$d tahun yang lalu</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Unduh aplikasi menggunakan titik akhir web IPFS: %1$d diaktifkan</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d Aplikasi Terpasang</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d lainnya…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d Pembaruan</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Lihat keseluruhan %1$d aplikasi dari kategori %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Mengunduh pembaruan aplikasi %1$d:</item>
+    </plurals>
+</resources>

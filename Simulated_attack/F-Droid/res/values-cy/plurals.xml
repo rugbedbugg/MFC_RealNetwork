@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Gweld y %d</item>
+        <item quantity="zero">Gweld %d</item>
+        <item quantity="one">Gweld %d</item>
+        <item quantity="two">Gweld y %d</item>
+        <item quantity="few">Gweld y %d</item>
+        <item quantity="many">Gweld y %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Diweddarwyd %1$d diwrnod yn ôl</item>
+        <item quantity="zero">Diweddarwyd %1$d diwrnodau yn ôl</item>
+        <item quantity="one">Diweddarwyd %1$d diwrnod yn ôl</item>
+        <item quantity="two">Diweddarwyd %1$d ddiwrnod yn ôl</item>
+        <item quantity="few">Diweddarwyd %1$d diwrnod yn ôl</item>
+        <item quantity="many">Diweddarwyd %1$d diwrnod yn ôl</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Diweddarwyd %1$d mis yn ôl</item>
+        <item quantity="zero">Diweddarwyd %1$d misoedd yn ôl</item>
+        <item quantity="one">Diweddarwyd %1$d mis yn ôl</item>
+        <item quantity="two">Diweddarwyd %1$d fis yn ôl</item>
+        <item quantity="few">Diweddarwyd %1$d mis yn ôl</item>
+        <item quantity="many">Diweddarwyd %1$d mis yn ôl</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Diweddarwyd %1$d wythnos yn ôl</item>
+        <item quantity="zero">Diweddarwyd %1$d wythnosau yn ôl</item>
+        <item quantity="one">Diweddarwyd %1$d wythnos yn ôl</item>
+        <item quantity="two">Diweddarwyd %1$d wythnos yn ôl</item>
+        <item quantity="few">Diweddarwyd %1$d wythnos yn ôl</item>
+        <item quantity="many">Diweddarwyd %1$d wythnos yn ôl</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Diweddarwyd %1$d mlynedd yn ôl</item>
+        <item quantity="zero">Diweddarwyd %1$d blynyddoedd yn ôl</item>
+        <item quantity="one">Diweddarwyd %1$d flwyddyn yn ôl</item>
+        <item quantity="two">Diweddarwyd %1$d flynedd yn ôl</item>
+        <item quantity="few">Diweddarwyd %1$d blynedd yn ôl</item>
+        <item quantity="many">Diweddarwyd %1$d blynedd yn ôl</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">"%1$d Ap wedi'u Gosod"</item>
+        <item quantity="zero">"%1$d Apiau wedi'u Gosod"</item>
+        <item quantity="one">"%1$d Ap wedi'i Osod"</item>
+        <item quantity="two">"%1$d Ap wedi'u Gosod"</item>
+        <item quantity="few">"%1$d Ap wedi'u Gosod"</item>
+        <item quantity="many">"%1$d Ap wedi'u Gosod"</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d arall…</item>
+        <item quantity="zero">+%1$d arall…</item>
+        <item quantity="one">+%1$d arall…</item>
+        <item quantity="two">+%1$d arall…</item>
+        <item quantity="few">+%1$d arall…</item>
+        <item quantity="many">+%1$d arall…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d Diweddariad</item>
+        <item quantity="zero">%1$d Diweddariadau</item>
+        <item quantity="one">%1$d Diweddariad</item>
+        <item quantity="two">%1$d Ddiweddariad</item>
+        <item quantity="few">%1$d Diweddariad</item>
+        <item quantity="many">%1$d Diweddariad</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Gweld pob %1$d ap yn y categori %2$s</item>
+        <item quantity="zero">Gweld pob %1$d ap yn y categori %2$s</item>
+        <item quantity="one">Gweld pob %1$d ap yn y categori %2$s</item>
+        <item quantity="two">Gweld pob %1$d ap yn y categori %2$s</item>
+        <item quantity="few">Gweld pob %1$d ap yn y categori %2$s</item>
+        <item quantity="many">Gweld pob %1$d ap yn y categori %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Lawrlwythwyd diweddariadau ar gyfer %1$d ap.</item>
+        <item quantity="zero">Lawrlwythwyd diweddariadau ar gyfer %1$d apiau.</item>
+        <item quantity="one">Lawrlwythwyd diweddariadau ar gyfer %1$d ap.</item>
+        <item quantity="two">Lawrlwythwyd diweddariadau ar gyfer %1$d ap.</item>
+        <item quantity="few">Lawrlwythwyd diweddariadau ar gyfer %1$d ap.</item>
+        <item quantity="many">Lawrlwythwyd diweddariadau ar gyfer %1$d ap.</item>
+    </plurals>
+</resources>

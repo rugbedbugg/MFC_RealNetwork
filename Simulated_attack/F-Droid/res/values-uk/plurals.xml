@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Огляд усіх %d застосунків</item>
+        <item quantity="one">Огляд %d застосунку</item>
+        <item quantity="few">Огляд усіх %d застосунків</item>
+        <item quantity="many">Огляд усіх %d застосунків</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Оновлено %1$d днів тому</item>
+        <item quantity="one">Оновлено %1$d день тому</item>
+        <item quantity="few">Оновлено %1$d дні тому</item>
+        <item quantity="many">Оновлено %1$d днів тому</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Оновлено %1$d місяців тому</item>
+        <item quantity="one">Оновлено %1$d місяць тому</item>
+        <item quantity="few">Оновлено %1$d місяці тому</item>
+        <item quantity="many">Оновлено %1$d місяців тому</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Оновлено %1$d тижнів тому</item>
+        <item quantity="one">Оновлено %1$d тиждень тому</item>
+        <item quantity="few">Оновлено %1$d тижні тому</item>
+        <item quantity="many">Оновлено %1$d тижнів тому</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Оновлено %1$d років тому</item>
+        <item quantity="one">Оновлено %1$d рік тому</item>
+        <item quantity="few">Оновлено %1$d роки тому</item>
+        <item quantity="many">Оновлено %1$d років тому</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Завантаження застосунків за допомогою кінцевих вузлів IPFS: %1$d увімкнено</item>
+        <item quantity="one">Завантаження застосунків за допомогою кінцевих вузлів IPFS: %1$d увімкнений</item>
+        <item quantity="few">Завантаження застосунків за допомогою кінцевих вузлів IPFS: %1$d увімкнено</item>
+        <item quantity="many">Завантаження застосунків за допомогою кінцевих вузлів IPFS: %1$d увімкнено</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового сповіщення</item>
+        <item quantity="one">%d нове сповіщення</item>
+        <item quantity="few">%d нові сповіщення</item>
+        <item quantity="many">%d нових сповіщень</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d встановлених застосунків</item>
+        <item quantity="one">%1$d встановлений застосунок</item>
+        <item quantity="few">%1$d встановлених застосунки</item>
+        <item quantity="many">%1$d встановлених застосунків</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d сповіщень…</item>
+        <item quantity="one">+%1$d сповіщення…</item>
+        <item quantity="few">+%1$d сповіщення…</item>
+        <item quantity="many">+%1$d сповіщень…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d оновлень</item>
+        <item quantity="one">%1$d оновлення</item>
+        <item quantity="few">%1$d oновлення</item>
+        <item quantity="many">%1$d оновлень</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Показати %1$d застосунків у категорії %2$s</item>
+        <item quantity="one">Показати %1$d застосунок у категорії %2$s</item>
+        <item quantity="few">Показати %1$d застосунки у категорії %2$s</item>
+        <item quantity="many">Показати %1$d застосунків у категорії %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Завантажити оновлення для %1$d застосунків:</item>
+        <item quantity="one">Завантажити оновлення для %1$d застосунку:</item>
+        <item quantity="few">Завантажити оновлення для %1$d застосунків:</item>
+        <item quantity="many">Завантажити оновлення для %1$d застосунків:</item>
+    </plurals>
+</resources>

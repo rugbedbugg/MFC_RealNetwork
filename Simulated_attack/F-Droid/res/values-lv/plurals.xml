@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Skatīt visas %d</item>
+        <item quantity="zero">Skatīt %d</item>
+        <item quantity="one">Skatīt %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Atjaunināta pirms %1$d dienām</item>
+        <item quantity="zero">Atjaunināta pirms %1$d dienām</item>
+        <item quantity="one">Atjaunināta pirms %1$d dienas</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Atjaunināta pirms %1$d mēnešiem</item>
+        <item quantity="zero">Atjaunināta pirms %1$d mēnešiem</item>
+        <item quantity="one">Atjaunināta pirms %1$d mēneša</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Atjaunināta pirms %1$d nedēļām</item>
+        <item quantity="zero">Atjaunināta pirms %1$d nedēļām</item>
+        <item quantity="one">Atjaunināta pirms %1$d nedēļas</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Atjaunināta pirms %1$d gadiem</item>
+        <item quantity="zero">Atjaunināta pirms %1$d gadiem</item>
+        <item quantity="one">Atjaunināta pirms %1$d gada</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Lejupielādēt lietotnes, izmantojot IPFS tīmekļa galamērķus: %1$d iespējoti</item>
+        <item quantity="zero">Lejupielādēt lietotnes, izmantojot IPFS tīmekļa galamērķus: %1$d iespējotu</item>
+        <item quantity="one">Lejupielādēt lietotnes, izmantojot IPFS tīmekļa galamērķus: %1$d iespējots</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jauni paziņojumi</item>
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">Uzstādītas %1$d lietotnes</item>
+        <item quantity="zero">Uzstādītas %1$d lietotnes</item>
+        <item quantity="one">Uzstādīta %1$d lietotne</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+ vēl %1$d…</item>
+        <item quantity="zero">+ vēl %1$d…</item>
+        <item quantity="one">+ vēl %1$d…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d atjauninājumi</item>
+        <item quantity="zero">%1$d atjauninājumu</item>
+        <item quantity="one">%1$d atjauninājums</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Skatīt %1$d lietotnes kategorijā %2$s</item>
+        <item quantity="zero">Skatīt %1$d lietotnes kategorijā %2$s</item>
+        <item quantity="one">Skatīt %1$d lietotni kategorijā %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Lejupielādēt atjauninājumu %1$d lietotnēm:</item>
+        <item quantity="zero">Lejupielādēt atjauninājumu %1$d lietotnēm:</item>
+        <item quantity="one">Lejupielādēt atjauninājumu %1$d lietotnei:</item>
+    </plurals>
+</resources>

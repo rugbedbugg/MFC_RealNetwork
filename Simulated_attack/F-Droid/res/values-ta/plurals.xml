@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">எல்லாம் காட்டு %d</item>
+        <item quantity="one">காட்டு %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">%1$d நாட்கள் முன்பு புதுப்பிக்கப்பட்டது</item>
+        <item quantity="one">%1$d நாள் முன்பு புதுப்பிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">%1$d மாதங்கள் முன்பு புதுப்பிக்கப்பட்டது</item>
+        <item quantity="one">%1$d மாதம் முன்பு புதுப்பிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">%1$d வாரங்கள் முன்பு புதுப்பிக்கப்பட்டது</item>
+        <item quantity="one">%1$d வாரம் முன்பு புதுப்பிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">%1$d ஆண்டுகள் முன்பு புதுப்பிக்கப்பட்டது</item>
+        <item quantity="one">%1$d ஆண்டு முன்பு புதுப்பிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d புதிய அறிவிப்புகள்</item>
+        <item quantity="one">%d புதிய அறிவிப்பு</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d செயலிகள் நிறுவப்பட்டன</item>
+        <item quantity="one">%1$d செயலி நிறுவப்பட்டது</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d மேலும்…</item>
+        <item quantity="one">+%1$d மேலும்…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d புதுப்பிப்புகள்</item>
+        <item quantity="one">%1$d புதுப்பிப்பு</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">%2$s வகையிலிருந்து அனைத்து %1$d செயலிகளையும் காண்க</item>
+        <item quantity="one">%2$s பிரிவில் %1$d செயலியைக் காண்க</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">%1$d செயலிகளுக்கான புதுப்பிப்புகளைப் பதிவிறக்கு.</item>
+        <item quantity="one">%1$d செயலிக்கான புதுப்பிப்பைப் பதிவிறக்கு.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Ver todo %d</item>
+        <item quantity="one">Ver %d</item>
+        <item quantity="many">Ver todo %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Actualizada hace %1$d días</item>
+        <item quantity="one">Actualizada hace %1$d día</item>
+        <item quantity="many">Actualizada hace %1$d días</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Actualizada hace %1$d meses</item>
+        <item quantity="one">Actualizada hace %1$d mes</item>
+        <item quantity="many">Actualizada hace %1$d meses</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Actualizada hace %1$d semanas</item>
+        <item quantity="one">Actualizada hace %1$d semana</item>
+        <item quantity="many">Actualizada hace %1$d semanas</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Actualizada hace %1$d años</item>
+        <item quantity="one">Actualizada hace %1$d año</item>
+        <item quantity="many">Actualizada hace %1$d años</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d aplicaciónes instaladas</item>
+        <item quantity="one">%1$d aplicación instalada</item>
+        <item quantity="many">%1$d aplicaciónes instaladas</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d más…</item>
+        <item quantity="one">+%1$d más…</item>
+        <item quantity="many">+%1$d más…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d Actualizaciónes</item>
+        <item quantity="one">%1$d Actualización</item>
+        <item quantity="many">%1$d Actualizaciónes</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Ver %1$d aplicaciónes en categoría %2$s</item>
+        <item quantity="one">Ver %1$d aplicación en categoría %2$s</item>
+        <item quantity="many">Ver %1$d aplicaciónes en categoría %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Descargar actualización para %1$d aplicaciónes.</item>
+        <item quantity="one">Descargar actualización para %1$d aplicacióne.</item>
+        <item quantity="many">Descargar actualización para %1$d aplicaciónes.</item>
+    </plurals>
+</resources>

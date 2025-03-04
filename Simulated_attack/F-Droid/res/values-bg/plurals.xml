@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Всички %d</item>
+        <item quantity="one">Преглед на %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Обновено преди %1$d дни</item>
+        <item quantity="one">Обновено преди %1$d ден</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Обновено преди %1$d месеца</item>
+        <item quantity="one">Обновено преди %1$d месец</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Обновено преди %1$d седмици</item>
+        <item quantity="one">Обновено преди %1$d седмица</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Обновено преди %1$d години</item>
+        <item quantity="one">Обновено преди %1$d година</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Изтегляне на приложения от крайни точки на IPFS: %1$d включени</item>
+        <item quantity="one">Изтегляне на приложения от крайни точки на IPFS: %1$d включено</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нови известия</item>
+        <item quantity="one">%d ново известие</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d инсталирани приложения</item>
+        <item quantity="one">%1$d инсталирано приложение</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d повече…</item>
+        <item quantity="one">+%1$d повече…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d обновления</item>
+        <item quantity="one">%1$d обновяване</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Показва всички %1$d приложения от категорията %2$s</item>
+        <item quantity="one">Показва %1$d приложение от категорията %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Изтегляне на издания на %1$d приложения:</item>
+        <item quantity="one">Изтегляне на издание на %1$d приложение:</item>
+    </plurals>
+</resources>

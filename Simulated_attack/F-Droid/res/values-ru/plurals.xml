@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Показать все %d</item>
+        <item quantity="one">Показать %d</item>
+        <item quantity="few">Показать все %d</item>
+        <item quantity="many">Показать все %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Обновлено %1$d дней назад</item>
+        <item quantity="one">Обновлено %1$d день назад</item>
+        <item quantity="few">Обновлено %1$d дня назад</item>
+        <item quantity="many">Обновлено %1$d дней назад</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Обновлено %1$d месяцев назад</item>
+        <item quantity="one">Обновлено %1$d месяц назад</item>
+        <item quantity="few">Обновлено %1$d месяца назад</item>
+        <item quantity="many">Обновлено %1$d месяцев назад</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Обновлено %1$d недель назад</item>
+        <item quantity="one">Обновлено %1$d неделю назад</item>
+        <item quantity="few">Обновлено %1$d недели назад</item>
+        <item quantity="many">Обновлено %1$d недель назад</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Обновлено %1$d лет назад</item>
+        <item quantity="one">Обновлено %1$d год назад</item>
+        <item quantity="few">Обновлено %1$d года назад</item>
+        <item quantity="many">Обновлено %1$d лет назад</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Загрузка приложений из %1$d конечных веб-точек IPFS включена</item>
+        <item quantity="one">Загрузка приложений из %1$d конечной веб-точки IPFS включена</item>
+        <item quantity="few">Загрузка приложений из %1$d конечных веб-точек IPFS включена</item>
+        <item quantity="many">Загрузка приложений из %1$d конечных веб-точек IPFS включена</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового уведомления</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d приложений установлено</item>
+        <item quantity="one">%1$d приложение установлено</item>
+        <item quantity="few">%1$d приложения установлено</item>
+        <item quantity="many">%1$d приложений установлено</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d уведомлений…</item>
+        <item quantity="one">+%1$d уведомление…</item>
+        <item quantity="few">+%1$d уведомления…</item>
+        <item quantity="many">+%1$d уведомлений…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d обновлений</item>
+        <item quantity="one">%1$d обновление</item>
+        <item quantity="few">%1$d обновления</item>
+        <item quantity="many">%1$d обновлений</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Посмотреть %1$d приложений в категории %2$s</item>
+        <item quantity="one">Посмотреть %1$d приложение в категории %2$s</item>
+        <item quantity="few">Посмотреть %1$d приложения в категории %2$s</item>
+        <item quantity="many">Посмотреть %1$d приложений в категории %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Скачать обновления для %1$d приложений:</item>
+        <item quantity="one">Скачать обновление для %1$d приложения:</item>
+        <item quantity="few">Скачать обновления для %1$d приложений:</item>
+        <item quantity="many">Скачать обновления для %1$d приложений:</item>
+    </plurals>
+</resources>

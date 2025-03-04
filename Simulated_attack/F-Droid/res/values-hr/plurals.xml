@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Pogledaj svih (%d)</item>
+        <item quantity="one">Pogledaj (%d)</item>
+        <item quantity="few">Pogledaj sva (%d)</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Ažurirano prije %1$d dana</item>
+        <item quantity="one">Ažurirano prije %1$d dan</item>
+        <item quantity="few">Ažurirano prije %1$d dana</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Ažurirano prije %1$d mjeseci</item>
+        <item quantity="one">Ažurirano prije %1$d mjeseca</item>
+        <item quantity="few">Ažurirano prije %1$d mjeseca</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Ažurirano prije %1$d tjedana</item>
+        <item quantity="one">Ažurirano prije %1$d tjedna</item>
+        <item quantity="few">Ažurirano prije %1$d tjedna</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Ažurirano prije %1$d godina</item>
+        <item quantity="one">Ažurirano prije %1$d godine</item>
+        <item quantity="few">Ažurirano prije %1$d godine</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+        <item quantity="few">%d nove obavijesti</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d aplikacija instalirano</item>
+        <item quantity="one">%1$d aplikacija instalirana</item>
+        <item quantity="few">%1$d aplikacije instalirane</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+ još %1$d …</item>
+        <item quantity="one">+ još %1$d …</item>
+        <item quantity="few">+ još %1$d …</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d ažuriranja</item>
+        <item quantity="one">%1$d ažuriranje</item>
+        <item quantity="few">%1$d ažuriranja</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Prikaži sve %1$d aplikacije iz %2$s kategorije</item>
+        <item quantity="one">Prikaži %1$d aplikaciju iz %2$s kategorije</item>
+        <item quantity="few">Prikaži sve %1$d aplikacije iz %2$s kategorije</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Preuzmi ažuriranja za %1$d aplikacija.</item>
+        <item quantity="one">Preuzmi ažuriranje za %1$d aplikaciju.</item>
+        <item quantity="few">Preuzmi ažuriranja za %1$d aplikacije.</item>
+    </plurals>
+</resources>

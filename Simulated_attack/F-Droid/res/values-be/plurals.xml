@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Праглядзець усе %d праграм</item>
+        <item quantity="one">Праглядзець %d праграму</item>
+        <item quantity="few">Праглядзець усе %d праграмы</item>
+        <item quantity="many">Праглядзець усе %d праграм</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Абноўлена %1$d дзён таму</item>
+        <item quantity="one">Абноўлена %1$d дзень таму</item>
+        <item quantity="few">Абноўлена %1$d дні таму</item>
+        <item quantity="many">Абноўлена %1$d дзён таму</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Абноўлена %1$d месяцаў таму</item>
+        <item quantity="one">Абноўлена %1$d месяц таму</item>
+        <item quantity="few">Абноўлена %1$d месяцы таму</item>
+        <item quantity="many">Абноўлена %1$d месяцаў таму</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Абноўлена %1$d тыдняў таму</item>
+        <item quantity="one">Абноўлена %1$d тыдзень таму</item>
+        <item quantity="few">Абноўлена %1$d тыдні таму</item>
+        <item quantity="many">Абноўлена %1$d тыдняў таму</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Абноўлена %1$d гадоў таму</item>
+        <item quantity="one">Абноўлена %1$d год таму</item>
+        <item quantity="few">Абноўлена %1$d гады таму</item>
+        <item quantity="many">Абноўлена %1$d гадоў таму</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новага апавяшчэння</item>
+        <item quantity="one">%d новае апавяшчэнне</item>
+        <item quantity="few">%d новыя апавяшчэнні</item>
+        <item quantity="many">%d новых апавяшчэнняў</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d праграм усталявана</item>
+        <item quantity="one">%1$d праграма ўсталяваная</item>
+        <item quantity="few">%1$d праграмы ўсталяваныя</item>
+        <item quantity="many">%1$d праграм усталявана</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d больш…</item>
+        <item quantity="one">+%1$d больш…</item>
+        <item quantity="few">+%1$d больш…</item>
+        <item quantity="many">+%1$d больш…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d абнаўленняў</item>
+        <item quantity="one">%1$d абнаўленне</item>
+        <item quantity="few">%1$d абнаўленні</item>
+        <item quantity="many">%1$d абнаўленняў</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Паказаць %1$d праграм з катэгорыі %2$s</item>
+        <item quantity="one">Паказаць %1$d праграму з катэгорыі %2$s</item>
+        <item quantity="few">Паказаць %1$d праграмы з катэгорыі %2$s</item>
+        <item quantity="many">Паказаць %1$d праграм з катэгорыі %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Спампаваць абнаўленні для %1$d праграм.</item>
+        <item quantity="one">Спампаваць абнаўленне для %1$d праграмы.</item>
+        <item quantity="few">Спампаваць абнаўленні для %1$d праграм.</item>
+        <item quantity="many">Спампаваць абнаўленні для %1$d праграм.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">查看全部 %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">更新于 %1$d 天前</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">更新于 %1$d 个月前</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">更新于 %1$d 周前</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">更新于 %1$d 年前</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">使用 IPFS 网络端点下载应用：%1$d 已开启</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d 条新通知</item>
+        <item quantity="one">%d 条新通知</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d 个应用已安装</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d 更多…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d 个更新</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">在 %2$s 的类别中查看全部 %1$d 个应用</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">下载 %1$d 个应用的更新：</item>
+    </plurals>
+</resources>

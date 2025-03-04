@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.fdroid.fdroid.nearby.SwapView android:background="@color/swap_blue" android:layout_width="wrap_content" android:layout_height="fill_parent" swap:toolbarTitle="@string/swap_scan_qr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:swap="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/wifi_qr_code" android:layout_width="250.0dip" android:layout_height="250.0dip" android:maxHeight="20.0dip" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/swap_scan_or_type_url" style="@style/SwapTheme.Wizard.MainText" />
+            <TextView android:id="@id/device_ip_address" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/SwapTheme.Wizard.LocalIpAddress" />
+            <Button android:layout_gravity="center" android:id="@id/btn_qr_scanner" android:text="@string/open_qr_code_scanner" style="@style/SwapTheme.Wizard.OptionButton" />
+            <TextView android:id="@id/warning_qr_scanner" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/warning_scaning_qr_code" style="@style/SwapTheme.Wizard.QRScanWarningText" />
+        </LinearLayout>
+    </ScrollView>
+</org.fdroid.fdroid.nearby.SwapView>

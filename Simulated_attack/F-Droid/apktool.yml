@@ -1,0 +1,34 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: F-Droid.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+- ogg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '23'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  kotlin-tooling-metadata.json: '8'
+  version.properties: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+  org/bouncycastle/x509/CertPathReviewerMessages.properties: '8'
+  org/bouncycastle/x509/CertPathReviewerMessages_de.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0-dirty
+versionInfo:
+  versionCode: '1021051'
+  versionName: 1.21.1

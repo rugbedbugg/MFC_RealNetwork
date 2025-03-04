@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Mostra altra %d</item>
+        <item quantity="one">Mostra %d</item>
+        <item quantity="many">Mostra les %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Actualitzada fa %1$d dies</item>
+        <item quantity="one">Actualitzada fa %1$d dia</item>
+        <item quantity="many">Actualitzada fa %1$d dies</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Actualitzada fa %1$d mesos</item>
+        <item quantity="one">Actualitzada fa %1$d mes</item>
+        <item quantity="many">Actualitzada fa %1$d mesos</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Actualitzada fa %1$d setmanes</item>
+        <item quantity="one">Actualitzada fa %1$d setmana</item>
+        <item quantity="many">Actualitzada fa %1$d setmanes</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Actualitzada fa %1$d anys</item>
+        <item quantity="one">Actualitzada fa %1$d any</item>
+        <item quantity="many">Actualitzada fa %1$d anys</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Descarregar les aplicacions des de nodes IPFS: %1$d habilitats</item>
+        <item quantity="one">Descarregar les aplicacions des de nodes IPFS: %1$d habilitat</item>
+        <item quantity="many">Descarregar les aplicacions des de nodes IPFS: %1$d habilitats</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">"S'han instal·lat %1$d aplicacions"</item>
+        <item quantity="one">"S'ha instal·lat %1$d aplicació"</item>
+        <item quantity="many">"S'han instal·lat %1$d aplicacions"</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d més…</item>
+        <item quantity="one">+%1$d més…</item>
+        <item quantity="many">+%1$d més…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d actualitzacions</item>
+        <item quantity="one">%1$d actualització</item>
+        <item quantity="many">%1$d actualitzacions</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Mostra aplicacions %1$d de la categoria %2$s</item>
+        <item quantity="one">Mostra la aplicació %1$d de la categoria %2$s</item>
+        <item quantity="many">Mostra les aplicacions %1$d de la categoria %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Descarregar les actualitzacions de %1$d aplicacions:</item>
+        <item quantity="one">"Descarregar l'actualització de %1$d aplicació:"</item>
+        <item quantity="many">Descarregar les actualitzacions de %1$d aplicacions:</item>
+    </plurals>
+</resources>

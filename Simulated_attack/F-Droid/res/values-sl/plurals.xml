@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Oglejte si %d</item>
+        <item quantity="one">Oglejte si %d</item>
+        <item quantity="two">Ogleje si %d</item>
+        <item quantity="few">Oglejte si %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Posodobljeno pred %1$d dnevi</item>
+        <item quantity="one">Posodobljeno pred %1$d dnevom</item>
+        <item quantity="two">Posodobljeno pred %1$d dnevoma</item>
+        <item quantity="few">Posodobljeno pred %1$d dnevi</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Posodobljeno pred %1$d meseci</item>
+        <item quantity="one">Posodobljeno pred %1$d mesecem</item>
+        <item quantity="two">Posodobljeno pred %1$d mesecema</item>
+        <item quantity="few">Posodobljeno pred %1$d meseci</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Posodobljeno pred %1$d tedni</item>
+        <item quantity="one">Posodobljeno pred %1$d tednom</item>
+        <item quantity="two">Posodobljeno pred %1$d tednoma</item>
+        <item quantity="few">Posodobljeno pred %1$d tedni</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Posodobljeno pred %1$d leti</item>
+        <item quantity="one">Posodobljeno pred %1$d letom</item>
+        <item quantity="two">Posodobljeno pred %1$d letoma</item>
+        <item quantity="few">Posodobljeno pred %1$d leti</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d nameščene aplikacije</item>
+        <item quantity="one">%1$d nameščena aplikacija</item>
+        <item quantity="two">%1$d nameščeni aplikaciji</item>
+        <item quantity="few">%1$d nameščene aplikacije</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d več…</item>
+        <item quantity="one">+%1$d več…</item>
+        <item quantity="two">+%1$d več…</item>
+        <item quantity="few">+%1$d več…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d posodobitve</item>
+        <item quantity="one">%1$d posodobitev</item>
+        <item quantity="two">%1$d posodobitvi</item>
+        <item quantity="few">%1$d posodobitev</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Preglej vse %1$d aplikacije v %2$s kategoriji</item>
+        <item quantity="one">Preglej %1$d aplikacijo v %2$s kategoriji</item>
+        <item quantity="two">Preglej vse %1$d aplikacije v %2$s kategoriji</item>
+        <item quantity="few">Preglej vse %1$d aplikacije v %2$s kategoriji</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Prenesi posodobitve za %1$d aplikacij.</item>
+        <item quantity="one">Prenesi posodobitev za %1$d aplikacijo.</item>
+        <item quantity="two">Prenesi posodobitvi za %1$d aplikaciji.</item>
+        <item quantity="few">Prenesi posodobitve za %1$d aplikacij.</item>
+    </plurals>
+</resources>

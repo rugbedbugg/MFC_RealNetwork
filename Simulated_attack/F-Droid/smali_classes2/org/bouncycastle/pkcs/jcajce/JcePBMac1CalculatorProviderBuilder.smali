@@ -1,0 +1,71 @@
+.class public Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder;
+.super Ljava/lang/Object;
+
+
+# instance fields
+.field private helper:Lorg/bouncycastle/jcajce/util/JcaJceHelper;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 1
+
+    .line 0
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    new-instance v0, Lorg/bouncycastle/jcajce/util/DefaultJcaJceHelper;
+
+    invoke-direct {v0}, Lorg/bouncycastle/jcajce/util/DefaultJcaJceHelper;-><init>()V
+
+    iput-object v0, p0, Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder;->helper:Lorg/bouncycastle/jcajce/util/JcaJceHelper;
+
+    return-void
+.end method
+
+.method static synthetic access$000(Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder;)Lorg/bouncycastle/jcajce/util/JcaJceHelper;
+    .locals 0
+
+    .line 0
+    iget-object p0, p0, Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder;->helper:Lorg/bouncycastle/jcajce/util/JcaJceHelper;
+
+    return-object p0
+.end method
+
+
+# virtual methods
+.method public build()Lorg/bouncycastle/operator/PBEMacCalculatorProvider;
+    .locals 1
+
+    .line 0
+    new-instance v0, Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder$1;
+
+    invoke-direct {v0, p0}, Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder$1;-><init>(Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder;)V
+
+    return-object v0
+.end method
+
+.method public setProvider(Ljava/lang/String;)Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder;
+    .locals 1
+
+    .line 0
+    new-instance v0, Lorg/bouncycastle/jcajce/util/NamedJcaJceHelper;
+
+    invoke-direct {v0, p1}, Lorg/bouncycastle/jcajce/util/NamedJcaJceHelper;-><init>(Ljava/lang/String;)V
+
+    iput-object v0, p0, Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder;->helper:Lorg/bouncycastle/jcajce/util/JcaJceHelper;
+
+    return-object p0
+.end method
+
+.method public setProvider(Ljava/security/Provider;)Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder;
+    .locals 1
+
+    .line 0
+    new-instance v0, Lorg/bouncycastle/jcajce/util/ProviderJcaJceHelper;
+
+    invoke-direct {v0, p1}, Lorg/bouncycastle/jcajce/util/ProviderJcaJceHelper;-><init>(Ljava/security/Provider;)V
+
+    iput-object v0, p0, Lorg/bouncycastle/pkcs/jcajce/JcePBMac1CalculatorProviderBuilder;->helper:Lorg/bouncycastle/jcajce/util/JcaJceHelper;
+
+    return-object p0
+.end method

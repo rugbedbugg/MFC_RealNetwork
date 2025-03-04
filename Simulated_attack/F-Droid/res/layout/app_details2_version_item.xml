@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="?selectableItemBackground" android:paddingLeft="10.0dip" android:paddingTop="5.0dip" android:paddingRight="4.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" android:paddingStart="10.0dip" android:paddingEnd="4.0dip" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/basic_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="fill_parent">
+                    <TextView android:textSize="18.0sp" android:textStyle="bold" android:ellipsize="marquee" android:id="@id/version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+                    <TextView android:textSize="14.0sp" android:layout_gravity="center" android:id="@id/versionCode" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+                </LinearLayout>
+                <LinearLayout android:paddingTop="3.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                    <TextView android:textStyle="bold" android:textColor="#ff19c878" android:id="@id/status_installed" android:background="@drawable/app_version_item_status_installed" android:text="@string/app_installed" style="@style/AppVersionStatus" />
+                    <include android:id="@id/status_suggested" layout="@layout/app_status_suggested" />
+                    <TextView android:textColor="#ffd86758" android:id="@id/status_incompatible" android:background="@drawable/app_version_item_status_incompatible" android:text="@string/app_incompatible" style="@style/AppVersionStatus" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView android:textSize="13.0sp" android:ellipsize="end" android:id="@id/added" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        </LinearLayout>
+        <ImageView android:id="@id/expand_arrow" android:layout_width="wrap_content" android:layout_height="fill_parent" app:srcCompat="@drawable/ic_expand_more" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/expanded_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_below="@id/basic_layout">
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" android:layout_weight="1.0" android:layout_marginEnd="8.0dip">
+                <TextView android:textSize="12.0sp" android:textColor="?lightGrayTextColor" android:ellipsize="marquee" android:id="@id/size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+                <TextView android:textSize="12.0sp" android:textColor="?lightGrayTextColor" android:ellipsize="marquee" android:id="@id/api" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            </LinearLayout>
+            <Button android:ellipsize="end" android:id="@id/button_install_upgrade" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginRight="4.0dip" android:maxEms="10" android:singleLine="true" android:layout_marginEnd="4.0dip" style="@style/DetailsSecondaryButtonStyle" />
+            <com.google.android.material.progressindicator.CircularProgressIndicator android:id="@id/busy_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" app:hideAnimationBehavior="outward" app:showAnimationBehavior="inward" app:trackCornerRadius="@dimen/mtrl_progress_indicator_full_rounded_corner_radius" />
+        </LinearLayout>
+        <TextView android:textSize="12.0sp" android:textColor="#ffd86758" android:id="@id/incompatible_reasons" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textSize="12.0sp" android:textColor="?lightGrayTextColor" android:id="@id/target_arch" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

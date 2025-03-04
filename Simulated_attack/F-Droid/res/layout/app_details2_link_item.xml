@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:background="?selectableItemBackground" android:paddingLeft="@dimen/layout_horizontal_margin" android:paddingStart="@dimen/layout_horizontal_margin" app:drawableLeftCompat="@drawable/ic_website" app:drawableStartCompat="@drawable/ic_website" style="@style/AppDetailsLink"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

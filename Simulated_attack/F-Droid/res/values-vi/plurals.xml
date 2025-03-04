@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Xem %d ứng dụng</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Được cập nhật %1$d ngày trước</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Được cập nhật %1$d tháng trước</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Được cập nhật %1$d tuần trước</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Được cập nhật %1$d năm trước</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">Đã cài đặt %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">và còn +%1$d…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d bản cập nhật</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Xem tất cả %1$d ứng dụng trong mục %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Tải các bản cập nhật của %1$d ứng dụng.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,72 @@
+.class final Lorg/fdroid/UpdateChecker$getUpdate$allowedSigners$2;
+.super Lkotlin/jvm/internal/Lambda;
+.source "UpdateChecker.kt"
+
+# interfaces
+.implements Lkotlin/jvm/functions/Function0;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lorg/fdroid/UpdateChecker;->getUpdate(Ljava/util/List;Lkotlin/jvm/functions/Function0;JLjava/util/List;ZLkotlin/jvm/functions/Function0;)Lorg/fdroid/index/v2/PackageVersion;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x18
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic $allowedSignersGetter:Lkotlin/jvm/functions/Function0;
+
+
+# direct methods
+.method constructor <init>(Lkotlin/jvm/functions/Function0;)V
+    .locals 0
+
+    .line 0
+    iput-object p1, p0, Lorg/fdroid/UpdateChecker$getUpdate$allowedSigners$2;->$allowedSignersGetter:Lkotlin/jvm/functions/Function0;
+
+    const/4 p1, 0x0
+
+    invoke-direct {p0, p1}, Lkotlin/jvm/internal/Lambda;-><init>(I)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public bridge synthetic invoke()Ljava/lang/Object;
+    .locals 1
+
+    .line 98
+    invoke-virtual {p0}, Lorg/fdroid/UpdateChecker$getUpdate$allowedSigners$2;->invoke()Ljava/util/Set;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
+.method public final invoke()Ljava/util/Set;
+    .locals 1
+
+    iget-object v0, p0, Lorg/fdroid/UpdateChecker$getUpdate$allowedSigners$2;->$allowedSignersGetter:Lkotlin/jvm/functions/Function0;
+
+    if-eqz v0, :cond_0
+
+    .line 98
+    invoke-interface {v0}, Lkotlin/jvm/functions/Function0;->invoke()Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Ljava/util/Set;
+
+    goto :goto_0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    :goto_0
+    return-object v0
+.end method

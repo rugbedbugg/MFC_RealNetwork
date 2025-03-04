@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Alle %d tonen</item>
+        <item quantity="one">%d tonen</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">%1$d dagen geleden bijgewerkt</item>
+        <item quantity="one">%1$d dag geleden bijgewerkt</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">%1$d maanden geleden bijgewerkt</item>
+        <item quantity="one">%1$d maand geleden bijgewerkt</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">%1$d weken geleden bijgewerkt</item>
+        <item quantity="one">%1$d week geleden bijgewerkt</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">%1$d jaar geleden bijgewerkt</item>
+        <item quantity="one">%1$d jaar geleden bijgewerkt</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Download apps van IPFS web eindpunten: %1$d ingeschakeld</item>
+        <item quantity="one">Download apps van IPFS web eindpunten: %1$d ingeschakeld</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d apps geïnstalleerd</item>
+        <item quantity="one">%1$d app geïnstalleerd</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d meer…</item>
+        <item quantity="one">+%1$d meer…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d updates</item>
+        <item quantity="one">%1$d update</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Toon alle %1$d apps in de categorie %2$s</item>
+        <item quantity="one">Toon %1$d app in de categorie %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Download updates voor %1$d apps:</item>
+        <item quantity="one">Download updates voor %1$d app:</item>
+    </plurals>
+</resources>

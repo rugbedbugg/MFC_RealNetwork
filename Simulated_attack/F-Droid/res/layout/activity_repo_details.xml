@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.appbar.AppBarLayout android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content" app:liftOnScroll="true">
+        <com.google.android.material.appbar.MaterialToolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:title="@string/repo_details" style="@style/Widget.MaterialComponents.Toolbar.PrimarySurface" />
+    </com.google.android.material.appbar.AppBarLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/repo_view" android:paddingLeft="?listPreferredItemPaddingLeft" android:paddingRight="?listPreferredItemPaddingRight" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="?listPreferredItemPaddingLeft" android:paddingEnd="?listPreferredItemPaddingRight">
+            <TextView android:text="@string/repo_url" style="@style/CaptionText" />
+            <TextView android:id="@id/input_repo_url" style="@style/BodyText" />
+            <TextView android:id="@id/label_repo_name" android:text="@string/repo_name" style="@style/CaptionText" />
+            <TextView android:id="@id/text_repo_name" style="@style/BodyText" />
+            <TextView android:id="@id/label_description" android:text="@string/repo_description" style="@style/CaptionText" />
+            <TextView android:id="@id/text_description" style="@style/BodyText" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip">
+                <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <TextView android:id="@id/label_num_apps" android:text="@string/repo_num_apps" style="@style/CaptionText" />
+                    <TextView android:id="@id/text_num_apps" style="@style/BodyText" />
+                </LinearLayout>
+                <Button android:layout_gravity="bottom" android:id="@id/button_view_apps" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/repo_num_apps_button" style="@style/Widget.App.Button.TextButton" />
+            </LinearLayout>
+            <TextView android:id="@id/label_last_update" android:text="@string/repo_last_update" style="@style/CaptionText" />
+            <TextView android:id="@id/text_last_update" style="@style/BodyText" />
+            <TextView android:id="@id/label_last_update_downloaded" android:text="@string/repo_last_update_downloaded" style="@style/CaptionText" />
+            <TextView android:id="@id/text_last_update_downloaded" style="@style/BodyText" />
+            <TextView android:id="@id/label_official_mirrors" android:visibility="gone" android:text="@string/repo_official_mirrors" style="@style/CaptionText" />
+            <androidx.recyclerview.widget.RecyclerView android:id="@id/official_mirror_list" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <TextView android:id="@id/label_user_mirrors" android:visibility="gone" android:text="@string/repo_user_mirrors" style="@style/CaptionText" />
+            <androidx.recyclerview.widget.RecyclerView android:id="@id/user_mirror_list" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <TextView android:id="@id/label_username" android:text="@string/login_name" style="@style/CaptionText" />
+            <TextView android:id="@id/text_username" style="@style/BodyText" />
+            <Button android:id="@id/button_edit_credentials" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/repo_edit_credentials" />
+            <TextView android:id="@id/label_archive_repo" android:text="@string/repo_archive_toggle" style="@style/CaptionText" />
+            <androidx.appcompat.widget.SwitchCompat android:id="@id/archiveRepo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/repo_archive_toggle_description" />
+            <TextView android:id="@id/label_repo_fingerprint" android:text="@string/repo_fingerprint" style="@style/CaptionText" />
+            <TextView android:typeface="monospace" android:id="@id/text_repo_fingerprint" style="@style/BodyText" />
+            <TextView android:id="@id/text_repo_fingerprint_description" style="@style/BodyText" />
+            <TextView android:id="@id/text_not_yet_updated" android:text="@string/repo_not_yet_updated" style="@style/BodyText" />
+            <ImageView android:id="@id/qr_code" android:paddingTop="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" app:srcCompat="@drawable/swap_qr_example" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

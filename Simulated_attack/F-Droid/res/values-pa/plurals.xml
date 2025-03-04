@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">ਸਾਰੇ %d ਵੇਖੋ</item>
+        <item quantity="one">%d ਵੇਖੋ</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">%1$d ਦਿਨ ਪਹਿਲਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="one">%1$d ਦਿਨ ਪਹਿਲਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">%1$d ਮਹੀਨੇ ਪਹਿਲਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="one">%1$d ਮਹੀਨਾ ਪਹਿਲਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">%1$d ਹਫ਼ਤੇ ਪਹਿਲਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="one">%1$d ਹਫ਼ਤਾ ਪਹਿਲਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">%1$d ਸਾਲ ਪਹਿਲਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="one">%1$d ਸਾਲ ਪਹਿਲਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ਨਵੀਆਂ ਸੂਚਨਾਵਾਂ</item>
+        <item quantity="one">%d ਨਵੀਂ ਸੂਚਨਾ</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d ਐਪਾਂ ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%1$d ਐਪ ਇੰਸਟਾਲ ਕੀਤੀ ਗਈ</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d ਹੋਰ…</item>
+        <item quantity="one">+%1$d ਹੋਰ…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d ਅੱਪਡੇਟਾਂ</item>
+        <item quantity="one">%1$d ਅੱਪਡੇਟ</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">%2$s ਸ਼੍ਰੇਣੀ ਦੀਆਂ ਸਾਰੀਆਂ %1$d ਐਪਾਂ ਵੇਖੋ</item>
+        <item quantity="one">%2$s ਸ਼੍ਰੇਣੀ ਵਿੱਚ %1$d ਐਪ ਵੇਖੋ</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">%1$d ਐਪਾਂ ਲਈ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰੋ।</item>
+        <item quantity="one">%1$d ਐਪ ਲਈ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰੋ।</item>
+    </plurals>
+</resources>

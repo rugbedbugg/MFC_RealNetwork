@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Прикажи све (%d)</item>
+        <item quantity="one">Прикажи (%d)</item>
+        <item quantity="few">Прикажи све (%d)</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Ажурирано пре %1$d дана</item>
+        <item quantity="one">Ажурирано пре %1$d дан</item>
+        <item quantity="few">Ажурирано пре %1$d дана</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Ажурирано пре %1$d месеци</item>
+        <item quantity="one">Ажурирано пре %1$d месец</item>
+        <item quantity="few">Ажурирано пре %1$d месеца</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Ажурирано пре %1$d недеља</item>
+        <item quantity="one">Ажурирано пре %1$d недељу</item>
+        <item quantity="few">Ажурирано пре %1$d недеље</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Ажурирано пре %1$d година</item>
+        <item quantity="one">Ажурирано пре %1$d годину</item>
+        <item quantity="few">Ажурирано пре %1$d године</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Преузимање апликација помоћу IPFS-а са %1$d мрежних пролаза је омогућено</item>
+        <item quantity="one">Преузимање апликација помоћу IPFS-а са %1$d мрежног пролаза је омогућено</item>
+        <item quantity="few">Преузимање апликација помоћу IPFS-а са %1$d мрежна пролаза је омогућено</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нових обавештења</item>
+        <item quantity="one">%d ново обавештење</item>
+        <item quantity="few">%d нова обавештења</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d апликација је инсталирано</item>
+        <item quantity="one">%1$d апликација је инсталирана</item>
+        <item quantity="few">%1$d апликације су инсталиране</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+ још %1$d…</item>
+        <item quantity="one">+ још %1$d…</item>
+        <item quantity="few">+ још %1$d…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d ажурирања</item>
+        <item quantity="one">%1$d ажурирање</item>
+        <item quantity="few">%1$d ажурирања</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Прикажи %1$d апликација из категорије %2$s</item>
+        <item quantity="one">Прикажи %1$d апликацију из категорије %2$s</item>
+        <item quantity="few">Прикажи %1$d апликације из категорије %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Доступна су ажурирања за %1$d апликација:</item>
+        <item quantity="one">Доступно је ажурирање за %1$d апликацију:</item>
+        <item quantity="few">Доступна су ажурирања за %1$d апликације:</item>
+    </plurals>
+</resources>

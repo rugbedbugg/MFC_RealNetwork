@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Seall gach %d dhiubh</item>
+        <item quantity="one">Seall %d</item>
+        <item quantity="two">Seall gach %d dhiubh</item>
+        <item quantity="few">Seall gach %d dhiubh</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Chaidh ùrachadh %1$d latha air ais</item>
+        <item quantity="one">Chaidh ùrachadh %1$d latha air ais</item>
+        <item quantity="two">Chaidh ùrachadh %1$d latha air ais</item>
+        <item quantity="few">Chaidh ùrachadh %1$d làithean air ais</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Chaidh ùrachadh %1$d mìos air ais</item>
+        <item quantity="one">Chaidh ùrachadh %1$d mhìos air ais</item>
+        <item quantity="two">Chaidh ùrachadh %1$d mhìos air ais</item>
+        <item quantity="few">Chaidh ùrachadh %1$d mìosan air ais</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Chaidh ùrachadh %1$d seachdain air ais</item>
+        <item quantity="one">Chaidh ùrachadh %1$d seachdain air ais</item>
+        <item quantity="two">Chaidh ùrachadh %1$d sheachdain air ais</item>
+        <item quantity="few">Chaidh ùrachadh %1$d seachdainean air ais</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Chaidh ùrachadh %1$d bliadhna air ais</item>
+        <item quantity="one">Chaidh ùrachadh %1$d bhliadhna air ais</item>
+        <item quantity="two">Chaidh ùrachadh %1$d bhliadhna air ais</item>
+        <item quantity="few">Chaidh ùrachadh %1$d bliadhnaichean air ais</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">Chaidh %1$d aplacaid a stàladh</item>
+        <item quantity="one">Chaidh %1$d aplacaid a stàladh</item>
+        <item quantity="two">Chaidh %1$d aplacaid a stàladh</item>
+        <item quantity="few">Chaidh %1$d aplacaidean a stàladh</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d a bharrachd…</item>
+        <item quantity="one">+%1$d a bharrachd…</item>
+        <item quantity="two">+%1$d a bharrachd…</item>
+        <item quantity="few">+%1$d a bharrachd…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d ùrachadh</item>
+        <item quantity="one">%1$d ùrachadh</item>
+        <item quantity="two">%1$d ùrachadh</item>
+        <item quantity="few">%1$d ùrachaidhean</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Seall %1$d aplacaid san roinn-seòrsa %2$s</item>
+        <item quantity="one">Seall %1$d aplacaid san roinn-seòrsa %2$s</item>
+        <item quantity="two">Seall %1$d aplacaid san roinn-seòrsa %2$s</item>
+        <item quantity="few">Seall %1$d aplacaidean san roinn-seòrsa %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Luchdaich a-nuas ùrachaidhean air %1$d aplacaid.</item>
+        <item quantity="one">Luchdaich a-nuas ùrachadh air %1$d aplacaid.</item>
+        <item quantity="two">Luchdaich a-nuas ùrachaidhean air %1$d aplacaid.</item>
+        <item quantity="few">Luchdaich a-nuas ùrachaidhean air %1$d aplacaidean.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Ver todas os %d apps</item>
+        <item quantity="one">Ver %d app</item>
+        <item quantity="many">Ver todas os %d apps</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Atualizado %1$d dias atrás</item>
+        <item quantity="one">Atualizado %1$d dia atrás</item>
+        <item quantity="many">Atualizado %1$d dias atrás</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Atualizado %1$d meses atrás</item>
+        <item quantity="one">Atualizado %1$d mês atrás</item>
+        <item quantity="many">Atualizado %1$d meses atrás</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Atualizado %1$d semanas atrás</item>
+        <item quantity="one">Atualizado %1$d semana atrás</item>
+        <item quantity="many">Atualizado %1$d semanas atrás</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Atualizado %1$d anos atrás</item>
+        <item quantity="one">Atualizado %1$d ano atrás</item>
+        <item quantity="many">Atualizado %1$d anos atrás</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Baixar apps usando endpoints web do IPFS: %1$d ativados</item>
+        <item quantity="one">Baixar apps usando endpoints web do IPFS: %1$d ativado</item>
+        <item quantity="many">Baixar apps usando endpoints web do IPFS: %1$d ativados</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d Apps instalados</item>
+        <item quantity="one">%1$d App instalado</item>
+        <item quantity="many">%1$d Apps instalados</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">mais +%1$d…</item>
+        <item quantity="one">mais +%1$d…</item>
+        <item quantity="many">mais +%1$d…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d Atualizações</item>
+        <item quantity="one">%1$d Atualização</item>
+        <item quantity="many">%1$d Atualizações</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Ver todos os %1$d apps da categoria %2$s</item>
+        <item quantity="one">Ver %1$d app da categoria %2$s</item>
+        <item quantity="many">Ver todos os %1$d apps da categoria %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Baixar atualizações para %1$d apps:</item>
+        <item quantity="one">Baixar atualização para %1$d app:</item>
+        <item quantity="many">Baixar atualizações para %1$d apps:</item>
+    </plurals>
+</resources>

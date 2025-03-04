@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">ಎಲ್ಲಾ ವೀಕ್ಷಿಸಿ %d</item>
+        <item quantity="one">ನೋಟ %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">%1$d ದಿನಗಳ ಹಿಂದೆ ನವೀಕರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ದಿನದ ಹಿಂದೆ ನವೀಕರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">%1$d ತಿಂಗಳ ಹಿಂದೆ ನವೀಕರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ತಿಂಗಳ ಹಿಂದೆ ನವೀಕರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">%1$d ವಾರಗಳ ಹಿಂದೆ ನವೀಕರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ವಾರದ ಹಿಂದೆ ನವೀಕರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">%1$d ವರ್ಷಗಳ ಹಿಂದೆ ನವೀಕರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ವರ್ಷದ ಹಿಂದೆ ನವೀಕರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">ಡೌನ್ಲೋಡ್ ಆ್ಯಪ್ಸ್ ಯೂಸಿಂಗ್ ಐ ಪಿ ಎಫ್ ಎಸ್ ವೆಬ್ ಎಂಡ್ಪಾಯಿಂಟ್ಸ್: %6$d ಎನೇಬೆಲ್ಡ್</item>
+        <item quantity="one">ಡೌನ್ಲೋಡ್ ಆ್ಯಪ್ಸ್ ಯೂಸಿಂಗ್ ಐ ಪಿ ಎಫ್ ಎಸ್ ವೆಬ್ ಎಂಡ್ಪಾಯಿಂಟ್ಸ್: %1$d ಎನೇಬೆಲ್ಡ್</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
+        <item quantity="one">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಅಪ್ಲಿಕೇಶನ್ ಸ್ಥಾಪಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d ಹೆಚ್ಚು…</item>
+        <item quantity="one">+%1$d ಹೆಚ್ಚು…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d ನವೀಕರಣಗಳು</item>
+        <item quantity="one">%1$d ನವೀಕರಿಸಿ</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">%2$s ವರ್ಗದಿಂದ ಎಲ್ಲಾ %1$d ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ</item>
+        <item quantity="one">%2$s ವಿಭಾಗದಲ್ಲಿ %1$d ಅಪ್ಲಿಕೇಶನ್ ವೀಕ್ಷಿಸಿ</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">%1$d ಅಪ್ಲಿಕೇಶನ್‌ಗಾಗಿ ನನವೀಕರಣಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.</item>
+        <item quantity="one">%1$d ಅಪ್ಲಿಕೇಶನ್‌ಗಾಗಿ ನವೀಕರಣವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.</item>
+    </plurals>
+</resources>

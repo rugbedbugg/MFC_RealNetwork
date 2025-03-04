@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Shihni krejt %d</item>
+        <item quantity="one">Shihni %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Përditësuar %1$d ditë më parë</item>
+        <item quantity="one">Përditësuar %1$d ditë më parë</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Përditësuar %1$d muaj më parë</item>
+        <item quantity="one">Përditësuar %1$d muaj më parë</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Përditësuar %1$d javë më parë</item>
+        <item quantity="one">Përditësuar %1$d javë më parë</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Përditësuar %1$d vjet më parë</item>
+        <item quantity="one">Përditësuar %1$d vit më parë</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Shkarkoji aplikacionet duke përdorur pikëmbarim web IPFS: %1$d e aktivizuar</item>
+        <item quantity="one">Shkarkoje aplikacionin duke përdorur pikëmbarim web IPFS: %1$d e aktivizuar</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d njoftime të reja</item>
+        <item quantity="one">%d njoftim i ri</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d Aplikacione të Instaluar</item>
+        <item quantity="one">%1$d Aplikacion i Instaluar</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d më tepër…</item>
+        <item quantity="one">+%1$d më tepër…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d Përditësime</item>
+        <item quantity="one">%1$d Përditësim</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Shihni krejt %1$d aplikacionet prej kategorisë %2$s</item>
+        <item quantity="one">Shihni %1$d aplikacion te kategoria %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Shkarkoni përditësime për %1$d aplikacione.</item>
+        <item quantity="one">Shkarkoni përditësim për %1$d aplikacion.</item>
+    </plurals>
+</resources>

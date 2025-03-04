@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Tingnan lahat %d</item>
+        <item quantity="one">Tingnan %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">In-update %1$d (na) araw ang nakaraan</item>
+        <item quantity="one">In-update %1$d araw ang nakaraan</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">In-update %1$d (na) buwan ang nakaraan</item>
+        <item quantity="one">In-update %1$d buwan ang nakaraan</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">In-update %1$d (na) linggo ang nakaraan</item>
+        <item quantity="one">In-update %1$d linggo ang nakaraan</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">In-update %1$d (na) taon ang nakaraan</item>
+        <item quantity="one">In-update %1$d taon ang nakaraan</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">%1$d mga app ay na-install</item>
+        <item quantity="one">%1$d app ay na-install</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d pa…</item>
+        <item quantity="one">+%1$d pa…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">%1$d (na) update</item>
+        <item quantity="one">%1$d update</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Tingnan lahat ng %1$d (na) app sa kategoryang %2$s</item>
+        <item quantity="one">Tingnan ang %1$d app sa kategoryang %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">I-download ang update para sa %1$d (na) app.</item>
+        <item quantity="one">I-download ang update para sa %1$d app.</item>
+    </plurals>
+</resources>

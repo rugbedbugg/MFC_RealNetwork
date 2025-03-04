@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="button_view_all_apps_in_category">
+        <item quantity="other">Tazama %d zote</item>
+        <item quantity="one">Tazama %d</item>
+    </plurals>
+    <plurals name="details_last_update_days">
+        <item quantity="other">Imesasishwa siku %1$d zilizopita</item>
+        <item quantity="one">Imesasishwa siku %1$d iliyopita</item>
+    </plurals>
+    <plurals name="details_last_update_months">
+        <item quantity="other">Imesasishwa miezi %1$d iliyopita</item>
+        <item quantity="one">Imesasishwa mwezi %1$d uliopita</item>
+    </plurals>
+    <plurals name="details_last_update_weeks">
+        <item quantity="other">Imesasishwa wiki %1$d zilizopita</item>
+        <item quantity="one">Imesasishwa wiki %1$d iliyopita</item>
+    </plurals>
+    <plurals name="details_last_update_years">
+        <item quantity="other">Imesasishwa miaka %1$d iliyopita</item>
+        <item quantity="one">Imesasishwa mwaka %1$d uliopita</item>
+    </plurals>
+    <plurals name="ipfsgw_summary">
+        <item quantity="other">Pakua apu kwa kutumia pointi ya mwisho za wavuti za IPFS: %1$d kuwezeshwa</item>
+        <item quantity="one">Pakua apu kutumia pointi za mwisho za wavuti za IPFS: %1$d kuwezeshwa</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="notification_summary_installed">
+        <item quantity="other">Apu %1$d Zimesimikwa</item>
+        <item quantity="one">Apu %1$d Imesimikwa</item>
+    </plurals>
+    <plurals name="notification_summary_more">
+        <item quantity="other">+%1$d zaidi…</item>
+        <item quantity="one">+%1$d zaidi…</item>
+    </plurals>
+    <plurals name="notification_summary_updates">
+        <item quantity="other">Masasisho %1$d</item>
+        <item quantity="one">Sasisho %1$d</item>
+    </plurals>
+    <plurals name="tts_view_all_in_category">
+        <item quantity="other">Tazama api zote za %1$d kutoka kwenye kategoria ya %2$s</item>
+        <item quantity="one">Tazama apu ya %1$d kwenye kundi la %2$s</item>
+    </plurals>
+    <plurals name="updates__download_updates_for_apps">
+        <item quantity="other">Pakua masasisho ya apu za %1$d:</item>
+        <item quantity="one">Pakua sasisho ya apu ya %1$d:</item>
+    </plurals>
+</resources>
