@@ -23,7 +23,7 @@ Here is the POV of the victim downloading the apk.
 
 ```Note that Google Play Protect has been disabled for this denomstration which would otherwise flag the file and not let the installation go through```
 
-[target_downloading_the_payload.mp4](:/99ff52b9117d493d939570d5fe875d6d)
+[target_downloading_the_payload.mp4](https://github.com/rugbedbugg/MFC_RealNetwork/blob/main/Simulated_attack/target_downloading_the_payload.mp4)
 
 As the victim downloads the app we prepare for our next step. We start up Metasploit and select the exploit ```exploit/multi/handler``` and set up the same ```LHOST``` and ```LPORT```. The attacking device will now start listening on port 4444 and wait for connection from the payload.
 
