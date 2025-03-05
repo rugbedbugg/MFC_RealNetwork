@@ -48,7 +48,11 @@ We will first install ```macchanger``` on our linux system
 
 Then we can try and change our MAC address by doing the following
 
-![10_changing_mac_manually.png](https://github.com/rugbedbugg/MFC_RealNetwork/blob/main/Simulated_defense/10_changing_mac_manually.png)
+```
+sudo ifconfig wlan0 down
+sudo macchanger -r wlan0
+sudo ifconfig wlan0 up
+```
 
 Ofcourse it would be nice to have our internet address change on their own. So I made a custom script just for that
 
