@@ -73,12 +73,12 @@ while true; do
 done &
 
 while true; do
-    # IPv4 randomisation
-    sudo dhclient -4 -r wlan0
-    sudo dhclient -4 -r eth0
+ # IPv4 randomisation
+ sudo dhclient -4 -r wlan0
+ sudo dhclient -4 -r eth0
 
-    sudo dhclient -4 wlan0
-    sudo dhclient -4 eth0
+ sudo dhclient -4 wlan0
+ sudo dhclient -4 eth0
 
 	# IPv6 randomisation
 	sudo dhclient -6 -r wlan0
