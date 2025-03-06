@@ -21,7 +21,7 @@ Here we are going the host the the app as a website and whenever the unsuspeting
 This starts up a website hosted on our computer itself, which hosts the file. 
 Here is the POV of the victim downloading the apk. 
 
-```Note that Google Play Protect has been disabled for this denomstration which would otherwise flag the file and not let the installation go through```
+```Note that Google Play Protect has been disabled for this demonstration which would otherwise flag the file and not let the installation go through```
 
 [target_downloading_the_payload.mp4](https://github.com/rugbedbugg/MFC_RealNetwork/blob/main/Simulated_attack/target_downloading_the_payload.mp4)
 
