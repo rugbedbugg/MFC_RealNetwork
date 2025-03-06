@@ -143,7 +143,7 @@ Now to run the script at login, we will go to ```~/.config/autostart``` and crea
 ```
 [Desktop Entry]
 Type=Application
-Exec=/usr/local/bin/your_script.sh
+Exec=/home/rugbedbugg/rugbedbugg_files/MFC_RealNetwork/Simulated_defence/MAC.sh
 Hidden=false
 NoDisplay=true 
 X-GNOME-Autostart-enabled=true
@@ -152,7 +152,7 @@ Name=MAC_IP_randomiser
 Now our MAC and IP addresses will randomised periodically everytime we use our machine.
 
 # Proxychaining
-It is a concept where we route our connection through multiple IP addresses to obfuscate our actuap IP and subsequently giving away critical information about us. We will be using a tool called ```proxychains``` on Kali Purple to demonstrate this.
+It is a concept where we route our connection through multiple IP addresses to obfuscate our actual IP and subsequently giving away critical information about us. We will be using a tool called ```proxychains``` on Kali Purple to demonstrate this.
 1. Install proxychains via ```sudo apt install proxychains```
 2. We will need to locate the configuration file via ```locate proxychains``` and open up ```proxychains.conf``` in a text editor.
 3. Once on the configuration file, we will have the option to choose from ```strict-chain```, ```dynamic-chain``` or ```random-chain```. The one selected by default, ```strict-chain``` will fail even if one fo the proxies is down as we can see in the documentation. Hence the better option is either ```dynamic-chain``` or ```random-chain```. We will use ```dynamic-chain``` for this demonstration but uncommenting it and commenting ```strict-chain```.
